@@ -19,28 +19,28 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is RED DRAGON🔥
-My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `My name is 🧭𝚆_𝙰_𝙱_𝚃_𝙾ͭ𝙵ͤ𝙵ͣ𝙸ͫ𝙲𝙸𝙰𝙻🧙‍♂️⚒️🔥
+My Creator is HI__꧁•🤹🏻‍♂️⃞⃞〠ᴍʀͥ.ᴛʜᴀͣʀͫɪɴᴅᴜ🔐⃝⃝⃗𒆜 ༻` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+380944814219'] //Owner number in aive msg
-global.premium = ['+380944814219'] //Owner Number info
-global.ownernomer = '+380944814219' //Owner Number <<<
+global.owner = ['+94779219613'] //Owner number in aive msg
+global.premium = ['+94779219613'] //Owner Number info
+global.ownernomer = '+94779219613' //Owner Number <<<
 
-global.ownername = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖' //Owner Name
-global.botname = ' ☬RED༒DRAGON࿐' //Bot Name
+global.ownername = 'mr|:Tharindu ' //Owner Name
+global.botname = ' ☬🧭𝚆_𝙰_𝙱_𝚃_𝙾ͭ𝙵ͤ𝙵ͣ𝙸ͫ𝙲𝙸𝙰𝙻🧙‍♂️⚒️' //Bot Name
 
-global.button = '🤭Youtube📍' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://youtu.be/E5C-lrl_g9I' //Change Your Button's URL
+global.button = '☬wabt|:official family' //Costomize A Button Name In Alive Message
+global.btnurl = 'https://chat.whatsapp.com/Dt3C4wrQmt0GG6io1IBIHb' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
-global.author = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯' //Author Name
-global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
+global.packname = '☬mr|:Gihan official ᵀᴹ' //Bot Pacage Name
+global.author = 'Mr|:Gihan❯❯' //Author Name
+global.prefa = ['','!','.','⚜','👻','⚖️'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
-global.dragonemoji = '🧩' // Menu emoji
-global.footer = '©_Kumuthu.' //In list menu
+global.dragonemoji = '☬' // Menu emoji
+global.footer = '©_Tharindu .' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
 global.ig = 'https://github.com/prabhasha2006' //Github Account!
